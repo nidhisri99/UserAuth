@@ -1,0 +1,16 @@
+git basics commands
+
+
+git status 
+git log
+git add <file_name> 
+git add . ==>add all files
+git commit -m "required msg"
+git pull origin <branch_name>
+git push origin <branch_name>
+git checkout -b <new_branch_name> ==> will checkout to given new_branch_name
+git branch <branch-name>
+git branch -d <branch_name>
+git merge <dest_bn> <src_bn>
+
+
